@@ -1,1 +1,2 @@
-Testing sidebar changes
+- Getting Started
+	- [Introduction](/README.md)
