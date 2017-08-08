@@ -1,2 +1,3 @@
 # testing-docs
-Just a repo for testing
+
+Just a repo for testing documentation.
