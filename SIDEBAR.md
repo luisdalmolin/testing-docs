@@ -1,4 +1,4 @@
-- Link group 2      
+- Testing stuff 
     - [best-practices.md](best-practices.md) 
     - [README.md](README.md) 
     - [SIDEBAR.md](SIDEBAR.md) 
@@ -6,13 +6,12 @@
     - [SIDEBAR.md](SIDEBAR.md) 
     - [Link 3](file.md) 
 
-- Testing   
+- Testing    
     - [phpunit.md](phpunit.md) 
     - [Testing stuff!!!](file.md) 
     - [best-practices.md](best-practices.md) 
 
-- Link group 3   
- 
+- Link group 3    
     - [Link 3](file.md) 
     - [Link 2](file.md) 
     - [Link 4](file.md) 
