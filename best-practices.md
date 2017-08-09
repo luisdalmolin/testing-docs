@@ -1,10 +1,5 @@
 # Best Practices
 
-- [Heading Link](#link)
-    - [Subheading Link](#subheading-link)
-- [Another Link](#another-link)
-- [Another Link](#another-link-2)
-
 <a name="link"></a>
 ## Heading
 Some great text here.
