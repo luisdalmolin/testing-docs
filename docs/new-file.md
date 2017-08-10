@@ -1,5 +1,3 @@
-# New file
-
 Some content here before the subtitle.
 
 ## Heading
