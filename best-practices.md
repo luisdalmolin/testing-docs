@@ -1,4 +1,4 @@
-# Best Practices 
+
 
 ## Heading
 Some great text here.
