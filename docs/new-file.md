@@ -1,5 +1,7 @@
 # New file
 
+Some content here before the subtitle.
+
 ## Heading
 Some great text here.
 
