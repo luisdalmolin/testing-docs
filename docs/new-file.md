@@ -1,4 +1,4 @@
-# New file
+## New file
 
 ## Heading
 Some great text here.
