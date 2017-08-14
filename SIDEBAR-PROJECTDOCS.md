@@ -1,4 +1,11 @@
 - Links 
     - [new-file-for-testing-2.md](new-file-for-testing-2.md) 
     - [best-practices.md](best-practices.md) 
+    - [best-practices.md](best-practices.md) 
+    - [deployments.md](deployments.md) 
+    - [SIDEBAR-PROJECTDOCS.md](SIDEBAR-PROJECTDOCS.md) 
+    - [README.md](README.md) 
+    - [docs/new-file.md](docs/new-file.md) 
+    - [docs/new-members.md](docs/new-members.md) 
+    - [new-file-for-testing.md](new-file-for-testing.md) 
 
